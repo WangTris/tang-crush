@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Vì ngày mai lại một cơ hội để ôm trọn thế giới <33333333',
     mess: 'Yêu em nhiều nhiều 😘😘',
     messDesc: 'Mãi iu em công chúa của anh 🧡',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiii lun <3',
     messLink: 'https://www.facebook.com/tri.tranquang.940' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
